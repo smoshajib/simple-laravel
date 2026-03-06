@@ -9,7 +9,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand" href="{{ route('customers.index') }}">Customer CRUD Project</a>
+            <a class="navbar-brand" href="{{ route('customers.index') }}"></a>
         </div>
     </nav>
     <main class="py-4">
