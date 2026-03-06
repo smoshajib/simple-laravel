@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-    <h1>Customers</h1>
+    <h1>Customers List</h1>
     <a href="{{ route('customers.create') }}" class="btn btn-primary mb-3">Add New </a>
     <table class="table table-bordered">
         <thead>
